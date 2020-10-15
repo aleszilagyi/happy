@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "lat": "-11.4254",
+    "lng": "-61.447727",
+    "name": "Abrigo Municipal Pingo de Gente",
+    "description": "Presta assistência a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabilidade social.",
+    "images": [
+      "https://source.unsplash.com/random?sig=1",
+      "https://source.unsplash.com/random?sig=2",
+      "https://source.unsplash.com/random?sig=3",
+      "https://source.unsplash.com/random?sig=4",
+      "https://source.unsplash.com/random?sig=5",
+      "https://source.unsplash.com/random?sig=6"
+    ],
+    "instructions": "Venha como se sentir a vontade e traga muito amor e paciência para dar.",
+    "opening_hours": "Horário de visitas das 08:00 até 17:00",
+    "open_on_weekends": "1"
+  },
+  {
+    "id": "2",
+    "lat": "-11.4234",
+    "lng": "-61.443727",
+    "name": "Abrigo Teste 02",
+    "description": "Presta assistência a crianças de 03 a 12 anos que se encontre em situação de risco e/ou vulnerabilidade social.",
+    "images": [
+      "https://source.unsplash.com/random?sig=1",
+      "https://source.unsplash.com/random?sig=2",
+      "https://source.unsplash.com/random?sig=3",
+      "https://source.unsplash.com/random?sig=4",
+      "https://source.unsplash.com/random?sig=5",
+      "https://source.unsplash.com/random?sig=6"
+    ],
+    "instructions": "Venha como se sentir a vontade e traga muito amor e paciência para dar.",
+    "opening_hours": "Horário de visitas das 08:00 até 17:00",
+    "open_on_weekends": "0"
+  }
+]
