@@ -6,13 +6,13 @@ Database.then(async (db) => {
     opening_hours: "Das 07 às 17 horas",
   };
 
-  const updateImages = async (db, { opening_hours }) => {
+  const updateDb = async (db, { opening_hours }) => {
     return await db.run(`
       UPDATE orphanages SET opening_hours = "${opening_hours}" WHERE id = "1"
   `);
   };
 
-  await updateImages(db, orphanage);
+  await updateDb(db, orphanage);
   const selection = await db.all(`SELECT * FROM orphanages`)
   console.log(selection);
 });

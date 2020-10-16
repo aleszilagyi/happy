@@ -59,7 +59,7 @@ const addPhotoField = () => {
 
   //clean fields before adding into the imgs container
   input.value = "";
-
+d
   //add the duped into the #images container
   if (container.children.length >= 6) {
     return;
