@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img alt="Happy Logo" src="./home.png"/>
+    <img alt="Happy Logo" src="./home.png" width="100%"/>
 <p>
 
 ## :bookmark: Sobre
