@@ -22,7 +22,7 @@
 
 ## :bookmark: Sobre
 
-**Happy** é uma aplicação Web que permite facilitar o contato entre pessoas e casas de acolhida infantis. Voltado para instituições que prestam apoio às crianças em situações de abandono ou fragilidade social, o Happy é um ambiente pensado para aproximá-las das pessoas que possuem a intenção de contribuir para estes projetos sociais. A aplicação permite que instituições cadastrem o seu serviço para que pessoas possam entrar em contato com elas para contribuir com apoio.
+**Happy** é uma aplicação Web que permite facilitar o contato entre pessoas e casas de acolhida infantis. Voltado para instituições que prestam apoio às crianças em situações de abandono ou fragilidade social, o Happy é um ambiente pensado para aproximá-las das pessoas que possuem a intenção de contribuir para estes projetos sociais. A aplicação permite que instituições cadastrem o seu serviço para que pessoas possam entrar em contato com elas para contribuir.
 
 Esta aplicação foi elaborada durante a 3ª edição da **Next Level Week**, realizada pela [Rocketseat](https://rocketseat.com.br/), ao longo da trilha **Discovery**, com o professor [Mayk Brito](https://github.com/maykbrito).
 
