@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ErickNathan/ProjectHappy-NLW3?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickNathan/ProjectHappy-NLW3?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/aleszilagyi/happy_nlw3?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aleszilagyi/happy_nlw3?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/github/license/ErickNathan/ProjectHappy-NLW3?style=flat-square"> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
