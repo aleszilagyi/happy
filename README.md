@@ -74,7 +74,7 @@ Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-stack">Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-notion-guide">Notion</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#paintbrush-layout-figma">Figma's Layout</a>
+  <a href="#paintbrush-layout-figma">Figma Layout</a>
 </p>
 
 <p align="center">
