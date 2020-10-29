@@ -1,6 +1,6 @@
 <p align="right">
-  <a align="right" href="#pt-BR Readme">pt-BR</a>&nbsp;|&nbsp;
-  <a href="#en-US Readme">en-US</a>
+  <a align="right" href="#pt-BR-Readme">pt-BR</a>&nbsp;|&nbsp;
+  <a href="#en-US-Readme">en-US</a>
  </p>
 <h6 align="right">#pt-BR Readme</h6>
 <h1 align="center">
